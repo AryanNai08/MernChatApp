@@ -1,0 +1,22 @@
+# Node modules (both client and server)
+node_modules/
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (React)
+client/build/
+
+# Optional: Next.js or other
+.next/
+dist/
+
+# VSCode settings
+.vscode/
