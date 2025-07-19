@@ -2,7 +2,7 @@ import express from "express";
 import "dotenv/config";
 import cors from "cors";
 import http from "http";
-import { connectDB } from "./LIB/db.js";
+import { connectDB } from "./Lib/db.js";
 
 //create express app and http server
 
